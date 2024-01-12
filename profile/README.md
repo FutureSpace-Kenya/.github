@@ -2,7 +2,7 @@
 
 ## Who We Are
 
-![image](https://github.com/FutureSpace-Kenya/.github/assets/108453222/314579df-aa49-46c1-916d-8fb6ba388d20)
+![image](https://github.com/FutureSpace-Kenya/.github/assets/108453222/8cfd24c6-7901-41d0-8b5e-8d2fcd4f3e28)
 
 
 At FutureSpace, we're more than just a tech company. We're a vibrant team of innovators, thinkers, and problem-solvers dedicated to redefining the digital landscape. Our expertise lies in:
